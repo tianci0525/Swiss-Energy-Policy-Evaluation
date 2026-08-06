@@ -1,0 +1,10 @@
+
+# Master Thesis – Policy Portfolio Construction
+
+## Description
+This repository contains the Jupyter Notebook used for policy evaluation and the policy portfolio building model.
+
+## Project Structure
+
+- `Policy_Portfolio.ipynb`
+  Main notebook for analysis
