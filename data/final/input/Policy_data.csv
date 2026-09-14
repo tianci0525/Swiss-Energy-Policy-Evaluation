@@ -1,0 +1,49 @@
+Policy_ID,Status,Order,Name,Source_policies,Energy_sector,Promoting_technologies,Instrument,Administrative_touchpoint
+I_01,I,1,Carbon tax - thermal fuels & natural gas,PMu4,Heating,General,Tax,Large Corporations & SMEs
+N_02,N,2,Carbon tax - motor fuels,Mob4,Transport,General,Tax,Large Corporations & SMEs
+I_03,I,3,Reimbursement of the carbon tax for CHP (nat gas),PMu5,Electricity,CHP & CCGT,Fiscal exemption,Large Corporations & SMEs
+I_04,I,4,Mineral oil tax - thermal fuels & natural gas,PMu14 & PMu15,Heating,General,Tax,Large Corporations & SMEs
+I_05,I,5,Mineral oil tax - motor fuels,PMu14 & PMu15 & PMu16,Transport,General,Tax,Large Corporations & SMEs
+I_06,I,6,ETS - Installations >= 20 MW,PMu3,Electricity,General,ETS,Large Corporations
+N_07,N,7,Carbon removal for fossil electricity generation plants,PIn1+,Electricity,CHP & CCGT,Obligation,Large Corporations
+N_08,N,8,P+D subsidy on DACCS,Dec5,Electricity,CHP & CCGT,Subsidy,Large Corporations & SMEs
+N_09,N,9,Subsidy on CO2 transport and storage infrastructure,Dec7,Electricity,CHP & CCGT,Subsidy,Large Corporations
+I_10,I,10,Subisidy on district heat connection,PBu3 & PBu4,Heating,General,Subsidy,All Citizens & SMEs
+I_11,I,11,Subsidy on the heat distribution system,PBu3 & PBu4,Heating,General,Subsidy,All Citizens & SMEs
+I_12,I,12,Subsidy on heat pumps,PBu3 & PBu4,Heating,HP,Subsidy,All Citizens & SMEs
+I_13,I,13,Subsidy on wood heaters,PBu3 & PBu4,Heating,Boiler,Subsidy,All Citizens & SMEs
+I_14,I,14,Ban on gas boilers,EnEf3,Heating,General,Ban,All Citizens & SMEs & Large Corporations
+I_15,I,15,Ban on nuclear power plants,PEl1,Electricity,General,Ban,Large Corporations
+I_16,I,16,One-off remuneration (EIV) for PV,PEl10,Electricity,PV & Wind,Subsidy,All Citizens & SMEs & Large Corporations
+I_17,I,17,High one-off remuneration (EIV) for PV with auctions,PEl10,Electricity,PV & Wind,Subsidy,Large Corporations & SMEs
+I_18,I,18,Sliding market premium (GMP) for PV with auctions,PEl11,Electricity,PV & Wind,Subsidy,Large Corporations & SMEs
+I_19,I,19,Purchase remuneration for PV,PEl16,Electricity,PV & Wind,Market design,All Citizens & SMEs & Large Corporations
+I_20,I,20,Minimum tariffs for photovoltaic systems <= 150 Kw,PEl17,Electricity,PV & Wind,Market design,All Citizens & SMEs
+N_21,N,21,Project planning grants for Alpine PV,Sol3,Electricity,PV & Wind,Subsidy,Large Corporations
+I_22,I,22,Sliding market premium (GMP) for Biomass electricity generation,PEl11,Electricity,CHP & CCGT,Subsidy,Large Corporations & SMEs
+I_23,I,23,Operating cost contribution (BKB) for Biomass electricity generation,PEl12,Electricity,CHP & CCGT,Subsidy,Large Corporations & SMEs
+I_24,I,24,Investment contribution (IB)  for Biomass electricity generation,PEl13,Electricity,CHP & CCGT,Subsidy,Large Corporations & SMEs
+I_25,I,25,Sliding market premium (GMP) for hydro power,PEl11,Electricity,Hydro Power,Subsidy,Large Corporations & SMEs
+I_26,I,26,Investment contribution (IB)  for hydro power,PEl13,Electricity,Hydro Power,Subsidy,Large Corporations & SMEs
+I_27,I,27,Project planning contributions for new hydroelectric power plants or significant expansions of hydroelectric power plants,PEl15,Electricity,Hydro Power,Subsidy,Large Corporations & SMEs
+I_28,I,28,Sliding market premium (GMP) for wind energy,PEl11,Electricity,PV & Wind,Subsidy,Large Corporations & SMEs
+I_29,I,29,Investment contribution (IB)  for wind energy,PEl13,Electricity,PV & Wind,Subsidy,Large Corporations & SMEs
+I_30,I,30,Project planning grants for wind energy,PEl15,Electricity,PV & Wind,Subsidy,Large Corporations & SMEs
+N_31,N,31,Investment contribution for Power-to-X installations,Dec1,Heating,Boiler,Subsidy,Large Corporations & SMEs
+N_32,N,32,Investment contribution on green H2,Dec2,Heating,Boiler,Subsidy,Large Corporations
+I_33,I,33,Reimbursement of network usage charges for Hydrogen and Power-to-X P+D installations,PEl18,Heating,Boiler,Market design,Large Corporations
+I_34,I,34,Carbon offsetting for motor fuels,PTr1,Transport,General,Obligation,Large Corporations
+I_35,I,35,CO2 regulation for new vehicles - light,PTr2,Transport,General,Obligation,All Citizens & SMEs & Large Corporations
+I_36,I,36,CO2 regulation for new vehicles - heavy,PTr2,Transport,General,Obligation,Large Corporations & SMEs
+I_37,I,37,Performance-related heavy vehicle fee (LSVA) - for the carriage of goods,PTr4,Transport,General,Obligation,Large Corporations & SMEs
+I_38,I,38,LSVA exemption/discount for heavy EV & FCEV,PTr4,Transport,General,Fiscal exemption,Large Corporations & SMEs
+I_39,I,39,Motor vehicle tax exemption for EV & FCEV,PTr12,Transport,General,Fiscal exemption,All Citizens & SMEs & Large Corporations
+N_40,N,40,Vehicle tax exemption for FCEV,PTr3+,Transport,FCEV,Fiscal exemption,All Citizens & SMEs & Large Corporations
+N_41,N,41,Subsidy on purchasing light FCEV,PTr11,Transport,FCEV,Subsidy,All Citizens & SMEs
+N_42,N,42,Subsidy on purchasing light EV,PTr11+,Transport,EV,Subsidy,All Citizens & SMEs
+I_43,I,43,Subsidy on purchasing EVs for public transport,PTr10,Transport,EV,Subsidy,Large Corporations & SMEs
+I_44,I,44,Subsidy on heavy EV charging infrastructure in small and medium-sized enterprises (SMEs),PTr6,Transport,EV,Subsidy,SMEs
+I_45,I,45,Subsidy on light EV charging infrastructure in residential or office facilities,PTr7,Transport,EV,Subsidy,All Citizens & SMEs & Large Corporations
+N_46,N,46,Regulatory for EV charging stations in buildings,Mob5,Transport,EV,Obligation,Large Corporations & SMEs
+N_47,N,47,Subsidy on H2 filling stations,Dec3,Transport,FCEV,Subsidy,Large Corporations
+N_48,N,48,Ban on ICE vehicles,PTr2+,Transport,General,Ban,All Citizens & SMEs & Large Corporations

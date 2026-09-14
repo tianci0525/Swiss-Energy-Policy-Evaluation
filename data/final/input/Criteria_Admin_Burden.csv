@@ -1,0 +1,6 @@
+Administrative_touchpoint,mode,low,high
+Large Corporations,1,1,4
+SMEs,3,2,5
+Large Corporations & SMEs,3,2,4
+All Citizens & SMEs,5,4,5
+All Citizens & SMEs & Large Corporations,5,4,5

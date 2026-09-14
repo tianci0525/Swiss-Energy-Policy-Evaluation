@@ -1,0 +1,8 @@
+Criterion,Is_Best,Is_Worst,Best_to_Criterion,Criterion_to_Worst
+Cost_carbon_abatement,0,0,2,4
+Social_acceptance_tech,1,0,1,5
+Deployment_difficulty,0,0,2,4
+Acceptance_policy_instrument,0,1,5,1
+Perceived_equity,0,0,2,4
+Administrative_burden,0,0,4,3
+Cost_gap,0,0,2,4

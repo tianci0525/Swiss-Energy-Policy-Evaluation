@@ -1,0 +1,18 @@
+Instrument_Administrative_touchpoint,mode,low,high
+Ban_Large Corporations,4,4,5
+Ban_All Citizens & SMEs & Large Corporations,3,2,4
+Tax_Large Corporations & SMEs,4,3,5
+ETS_Large Corporations,4,3,5
+Obligation_Large Corporations,4,4,4
+Obligation_Large Corporations & SMEs,3,3,4
+Obligation_All Citizens & SMEs & Large Corporations,3,2,4
+Market design_Large Corporations,3,1,4
+Market design_All Citizens & SMEs,3,2,4
+Market design_All Citizens & SMEs & Large Corporations,4,3,4
+Fiscal exemption_Large Corporations & SMEs,2,1,3
+Fiscal exemption_All Citizens & SMEs & Large Corporations,4,3,4
+Subsidy_Large Corporations,1,1,2
+Subsidy_SMEs,3,1,4
+Subsidy_Large Corporations & SMEs,2,1,3
+Subsidy_All Citizens & SMEs,3,3,5
+Subsidy_All Citizens & SMEs & Large Corporations,3,3,4
