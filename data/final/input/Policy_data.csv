@@ -38,7 +38,7 @@ I_36,I,36,CO2 regulation for new vehicles - heavy,PTr2,Transport,General,Obligat
 I_37,I,37,Performance-related heavy vehicle fee (LSVA) - for the carriage of goods,PTr4,Transport,General,Obligation,Large Corporations & SMEs
 I_38,I,38,LSVA exemption/discount for heavy EV & FCEV,PTr4,Transport,General,Fiscal exemption,Large Corporations & SMEs
 I_39,I,39,Motor vehicle tax exemption for EV & FCEV,PTr12,Transport,General,Fiscal exemption,All Citizens & SMEs & Large Corporations
-N_40,N,40,Vehicle tax exemption for FCEV,PTr3+,Transport,FCEV,Fiscal exemption,All Citizens & SMEs & Large Corporations
+N_40,N,40,Vehicle import tax exemption for FCEV,PTr3+,Transport,FCEV,Fiscal exemption,All Citizens & SMEs & Large Corporations
 N_41,N,41,Subsidy on purchasing light FCEV,PTr11,Transport,FCEV,Subsidy,All Citizens & SMEs
 N_42,N,42,Subsidy on purchasing light EV,PTr11+,Transport,EV,Subsidy,All Citizens & SMEs
 I_43,I,43,Subsidy on purchasing EVs for public transport,PTr10,Transport,EV,Subsidy,Large Corporations & SMEs
