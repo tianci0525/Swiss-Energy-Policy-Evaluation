@@ -4,7 +4,15 @@
 ## Description
 This repository contains the Jupyter Notebook used for policy evaluation and the policy portfolio building model.
 
-## Project Structure
+## Before Running
 
-- `Policy_Portfolio.ipynb`
-  Main notebook for analysis
+This notebook uses hardcoded absolute paths (Windows-style, e.g. `D:/...`) that need to be updated after cloning.
+
+**1. Input path (line 88):**
+```python
+DATA_DIR = "D:/Tansy/Master thesis/MCDA/data/final/input/"
+```
+Change this to your own input folder — the rest of the input-loading code uses this variable.
+
+**2. Intermediate/output paths (~28 lines, marked with `# <-- change this to your folder`):**
+These are hardcoded individually (not tied to a variable), so use find & replace to swap:
